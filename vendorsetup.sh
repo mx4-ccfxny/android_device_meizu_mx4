@@ -16,7 +16,7 @@
 
 for flavor in eng userdebug user; do
     add_lunch_combo "full_mx4-${flavor}"
-    add_lunch_combo "cm_mx4-${flavor}"
+    add_lunch_combo "sm_mx4-${flavor}"
 done
 
 
